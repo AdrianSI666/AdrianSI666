@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdrianSI666
-- 👀 I’m interested in programing in Java or C#
+- 👀 I’m interested in programing in Java
 - 🌱 I’m currently learning :
     - Spring
     - ASP .NET
