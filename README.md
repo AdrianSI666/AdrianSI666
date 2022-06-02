@@ -2,7 +2,6 @@
 - 👀 I’m interested in programing in Java
 - 🌱 I’m currently learning :
     - Spring
-    - ASP .NET
 - 💞️ I’m looking to collaborate on: 
     - Spring
     - Minecraft mods
