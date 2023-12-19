@@ -7,7 +7,7 @@
     - D&D app that will help people with their campaigns
     - Minecraft mods
 - 📫 How to reach me:
-    - Write a comment under any repo
+    - Make an issue on any repository that interests you.
 <!---
 AdrianSI666/AdrianSI666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
